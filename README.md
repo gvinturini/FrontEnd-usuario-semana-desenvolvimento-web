@@ -1,4 +1,4 @@
-# Virtus
+# Front-end usuário Project Virtus
 
 Front-end da visão do usuário final do projeto Virtus desenvolvido durante a semana de desenvolvimento web do professor Isidro.
 
