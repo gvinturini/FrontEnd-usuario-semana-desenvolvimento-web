@@ -1,27 +1,15 @@
 # Virtus
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
+Front-end da visão do usuário final do projeto Virtus desenvolvido durante a semana de desenvolvimento web do professor Isidro.
 
-## Development server
+## Objetivo e Teconologias
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+O objetivo do projeto é desenvolver um sistema de doação para paróquias do Brasil inteiro, permitindo a busca e seleção destas paróquias. Desenvolvido com a ideia de rodar primeiramente em dispositivos móveis.
+Projeto desenvolvido utilizando Angular 11 (Typescript) em conjunto com Bootstrap.
 
-## Code scaffolding
+## Prints
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://user-images.githubusercontent.com/19801337/142291493-78d8b0ad-7d33-4370-8958-508ea91cc16b.png)
+![image](https://user-images.githubusercontent.com/19801337/142291537-6da900c1-32cb-42d5-b9e1-a5efb39bd1f2.png)
+![image](https://user-images.githubusercontent.com/19801337/142291593-bfe3ceb1-9536-40ab-a16c-c44cc6fab1cd.png)
+![image](https://user-images.githubusercontent.com/19801337/142291619-ac41eedd-c688-42ee-9f1e-d7d1f0af393c.png)
